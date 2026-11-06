@@ -12,8 +12,8 @@
 #include <FastLED.h>
 
 // Wi-Fi credentials
-const char* SSID     = "_VelopSetup214";
-const char* PASSWORD = "shn7cyi1xt";
+const char* SSID     = "YOUR_WIFI_SSID";
+const char* PASSWORD = "YOUR_WIFI_PASSWORD";
 
 WebSocketsServer wsServer(81);
 
